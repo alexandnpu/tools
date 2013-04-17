@@ -1,10 +1,5 @@
 #!/usr/bin/python
 #
-# Created: 
-#    Kuang Yaming.
-# Last Modified: 
-#    4 Mar. 2011
-# 
 import os
 import sys
 import getopt
